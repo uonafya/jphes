@@ -1034,7 +1034,7 @@
     <rootDir></rootDir>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <spring.version>4.3.21.RELEASE</spring.version>
-    <spring.security.version>5.2.10.RELEASE</spring.security.version>
+    <spring.security.version>5.2.11.RELEASE</spring.security.version>
     <spring.security.oauth2.version>2.0.18.RELEASE</spring.security.oauth2.version>
     <struts.version>2.3.16.3</struts.version>
     <hibernate.version>4.2.20.Final</hibernate.version>
